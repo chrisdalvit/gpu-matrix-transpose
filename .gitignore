@@ -1,0 +1,14 @@
+.vscode
+bin
+report/local_build
+stats/
+venv/
+*.aux
+*.log
+*.out
+*.bbl
+*.bcf
+*.blg
+*-blx.bib
+*.xml
+*.ipynb
